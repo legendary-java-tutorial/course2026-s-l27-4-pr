@@ -6,5 +6,8 @@
   "win": "Угадал!",
   "hot": "горячо",
   "cold": "холодно",
-  "attempts": 7
+  "attempts": 7,
+  "easy": {
+    "attempts": 12
+  }
 }
